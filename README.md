@@ -11,4 +11,4 @@
     
 ![실행화면](https://user-images.githubusercontent.com/41581554/75443892-b63abc80-59a5-11ea-858f-f0ad87b8c8f3.png)
 
-https://yeowoolee.github.io/momentum_JS/
+https://yeowoolee.github.io/Momentum_JS/
